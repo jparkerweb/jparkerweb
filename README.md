@@ -1,6 +1,6 @@
 ## Hi there 😄
 
-🐙 Checkout my GitHub projects here: https://github.com/jparkerweb
+🐙 Checkout my GitHub projects here: [https://github.com/jparkerweb](https://github.com/jparkerweb)
 
 🧑‍💻 Here are a few of my published npm packages:
 - [🍱 Semantic Chunking](https://www.npmjs.com/package/semantic-chunking)  
